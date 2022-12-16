@@ -1,0 +1,26 @@
+id,name,c1,c2,c3,story,navigator,win,stranger,money,health,die 
+1,Bedroom,2,3,4,you wake up early in the morning.,Press 1: Wake up and do stretching by yawning and opening the window. Press 2: got to the washroom to wash your face and brush your teeth. Press 3cat is running out from the bedroom to follow you,0,0,0,0,0
+2,window,5,6,8,you open the window curtain,Press1: back to the bedroom Press 2: open the window curtain Press 3 Cat is running in the bedroom,0,0,0,0,0
+3,washroom,1,4,5,you wash face and brush tooth,Press1: back to the bedroom Press 2: Cat is running in the bedroom Press 3: you go in victorian kitchen style,0,1,0,0,0
+4,pet,8,6,7,your naughty cat is running out of the bedroom to follow you.,Press1: the cat is following you Press 2: you are sitting in cozy living room Press 3: you drinking the aroma coffee,0,1,0,9,0
+5,Kitchen,4,7,3,you are in the victorian kitchen style,Press1: you are sitting in the living room Press 2 go to the bathroom  Press 3 cat is following you,0,1,23,4,0
+6,Living room,3,9,8,you are sitting in the warm and cozy living room,Press1: go to living room and open the Tv Press 2: Go to the kitchen and have some food  Press 3: go back to the bathroom to brush your teeth,0,1,11,2,0
+7,hot coffee,6,4,10,you drinking aroma coffee,Press1: drink hot coffee  Press 2: Cat is running to you Press 3:Go to the bedroom,0,0,20,7,0
+8,Bathroom,11,12,13,you decide to take shower  ,Press 1: your taking a shower Press 2: back to the bedroom to prepare for work Press 3:  waiting at the bus stop,0,0,39,3,1
+9,Bus Stop,12,14,15,you wait for the bus transportation ,Press1 : waiting for the bus to arrive Press 2: checking the watch time Press:3 heading to Cambrian school,0,0,1,3,0
+10,watch,16,25,3,you check the time,Press 1: Time check  Press 2: you reach the Cambrian school Press 3: go to Tim hortons,0,1,48,9,0
+11,Cambrian school,10,9,12,you are at the Cambrian  School,Press 1: at Cambrian school Press 2: go to the bathroom  Press 3: back to Tim Hortons,0,1,20,4,0
+12,tim hortons,11,13,23,you are in tim hortons to buy hot vanilla coffee,Press 1: at Tim Hortons Press 2: buy hot french vanilla Coffee Press: 3 go to the student launch to standby,0,1,50,0,0
+13,student launch,13,14,11,you standby at the student launch ,Press 1: at student launch Press 2: go to the classroom Press 3: you fall sleep ,0,0,39,10,0
+14,Sleep,12,13,15,you dream  travelling  in Niagara falls ,Press 1: still fall asleep Press2: you teleport travel in Niagara falls Press 3 you go to the cave of the winds,0,0,0,5,0
+15,Niagara falls,11,16,17,you found yourself in niagara falls and there is wooden stairs ,Press 1:  you  saw yourself in Niagara falls Press 2: you saw the wooden stairs Press 3: you saw the Aquarium of Niagara,0,0,0,4,0
+16,cave of the winds ,18,17,16,you decide to explore the cave of the winds,Press1: go to the Cave of the  winds to explore Press 2 go to the Aquarium of Niagara Press 3: decide to go back io the Cave of the Winds ,0,0,0,9,0
+17,Aquarium of niagara,15,16,20,you teleport in aquarium of niagara ,"Press1: teleport to the Aquarium of Niagara Press 2: go to a Restaurant to eat vegetable salad Press3: call of nature, go to the bathroom ",0,1,0,8,0
+18,Restaurant,3,19,22,you are at the restaurant eating vegetable salad ,Press1: back to eat the vegetable salad Press 2: buy Hot Coffee after the food Press 3: Sudden land to the  Boulevard mall,0,1,0,6,0
+19,boulevard mall,20,22,21,you sudden land in boulevard mall,Press 1: explore at boulevard Mall Press 2: Time Check Press 3: buy a raffle ticket,0,1,0,9,0
+20,Raffle ticket,22,19,25,"you won in a raffle ticket a million prizes ("",)","Press 1: you won in a raffle ticket a million prizes Press:2 you won a Roll Royce SUV Car ("",) Press 3: Time check",0,0,0,7,0
+21,Roll Royce Suv,19,22,23,"you got a roll royce luxurious car woohhh ("",)",Press 1: you got a roll Royce luxurious car woohhh Press: 2:Time check  Press 3: you woke up and found you are at the classroom,0,1,50,10,0
+22,time check ,10,3,23,your adventure is over,Press1: time check Press 2: go to  the bathroom Press 3: go back to the  classroom,0,0,4,7,0
+23,classroom,9,22,24,you woke up and found yourself in the classroom,Press 1:  back to the classroom Press 2: Class dismissed Press 3: go back to the home ,0,0,24,9,0
+24,home,8,4,25,you went home,Press 1:  Back to home Press 2:  go to the washroom Press 3: find the Cat ,0,0,48,8,0
+25,Backyard,1,6,5,you found your naughty cat in the backyard ,Press 1:  go to backyard Press 2 found your cat in the backyard Press 3 End of Story Game,1,1,32,9,0
